@@ -4,6 +4,13 @@ An interactive **Pathfinding Algorithm Visualizer** built using **HTML, CSS, and
 This project helps users **understand how different graph traversal and shortest-path algorithms work step by step** through real-time visual animations on a grid.
 
 ---
+## 🌐 Live Demo
+
+🔗 **Path Visualizer (GitHub Pages)**  
+https://itzrv19.github.io/Path-Visualizer/
+
+
+---
 
 ## 🚀 Features
 
